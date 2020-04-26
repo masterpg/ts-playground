@@ -1,0 +1,15 @@
+**/*.log
+**/~$*
+
+.cache/
+.firebase/
+.idea/
+node_modules/
+screenshots/
+
+dist/
+dist/**/*.js.map
+
+src/**/*.js.map
+
+tests/**/*.js.map
